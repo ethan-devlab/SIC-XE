@@ -2,7 +2,7 @@
 This is a SIC/XE Assembly language project and is named BFS-BubbleSort. <br>
 The program will do BFS traversal first and do Bubble Sort afterwards.
 * Author: Ethan-DevLab, 2025
-## To compile
+## To assembly
 ```
 java -cp out/make/sictools.jar sic.Asm bfs-bubblesort.asm
 ```
